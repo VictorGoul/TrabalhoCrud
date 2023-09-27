@@ -1,6 +1,6 @@
 <?php 
-    $host = 'localhost:3307';
-    $dbname = 'nomedobancodedados';
-    $username = 'nomedousuario';
-    $password = 'senha';
+    $host = 'localhost:3306';
+    $dbname = 'dados';
+    $username = 'teste';
+    $password = '1234';
 ?>
