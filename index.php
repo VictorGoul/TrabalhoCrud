@@ -1,3 +1,3 @@
-<?php 
-    $nome_usuario = $_POST['nomeUsuario'];
+<?php
+    header("Location:   paginaLogin.html");
 ?>
